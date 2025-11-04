@@ -1,7 +1,8 @@
 
 
 # Dynabook G83/FS-hackintosh
-
+镜像下载地址：https://www.ffyun.top:5667/s/20cf28219046443084
+需要自行创建ESP分区考入该EFI
 ##Dynabook G83/FS-Hackintosh
 ### 适用：`i3，i5，i7版本`
 ## 电脑配置
