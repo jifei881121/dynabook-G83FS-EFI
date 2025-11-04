@@ -7,7 +7,7 @@
 ## 电脑配置
 | 电脑型号|       Dynabook G83/FS 笔记本电脑           |
 | ------------- | ----------------------------------- |
-|操作系统|  macOS-Sonoma/Ventura/Monterey/Big Sur/Catalina  |
+|操作系统|  macOS-Sonoma  |
 | CPU   |      英特尔 酷睿 i5 - 10210U / i7-10710U /i3-10110U
 | 显卡| Intel UHD 620 DeviceID：9B41|
 | 网卡 | IntelAX200/Intel-i219-V |
