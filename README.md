@@ -1,16 +1,37 @@
-Reference: https://github.com/MizhiDR/Dynabook-G83FP-Hackintosh Thanks
 
-Computer Model: Dynabook G83/FP Laptop
-Operating System: macOS - Sonoma
-CPU: Intel Core i5-10210U
-Graphics: Intel UHD 620
-Network Card: Intel AX200/Intel-i219-V
-Memory: 1 DDR4 Laptop RAM Slot
-HDD: Micron MTFDKBA1T0TFH
-Monitor: 13-inch Toshiba TOS508F
-Sound Card: Realtek ALC257
 
-Working Status:
+# Dynabook G83/FS-hackintosh
+
+##Dynabook G83/FS-Hackintosh
+### 适用：`i3，i5，i7版本`
+## 电脑配置
+| 电脑型号|       Dynabook G83/FS 笔记本电脑           |
+| ------------- | ----------------------------------- |
+|操作系统|  macOS-Sonoma/Ventura/Monterey/Big Sur/Catalina  |
+| CPU   |      英特尔 酷睿 i5 - 10210U / i7-10710U /i3-10110U
+| 显卡| Intel UHD 620 DeviceID：9B41|
+| 网卡 | IntelAX200/Intel-i219-V |
+|内存 | DDR4笔记本内存槽 |
+| 硬盘 | C-228T256G2-P3D2B2S11（256GB） |
+| 显示器| 13 英寸 东芝TOS508F |
+| 声卡 | Realtek ALC257 |
+## 正常工作
+- 显卡
+
+- 电源
+
+- 蓝牙
+
+- 显示器亮度调节
+
+- 无线（[原网卡AX200]/有线网卡
+
+- 触摸板 
+
+- USB定制 type-c可以使用
+
+- 声卡
+
 Sleep ☑️
 Bluetooth ☑️
 Wi-Fi ☑️
@@ -18,6 +39,6 @@ Wi-Fi ☑️
 Bug:
 Blacklight has a brightness bar, but cannot adjust brightness (fn+f12, fn+pause)/(Sonoma/Ventura/Monterey/)
 
-Untested:
+暂时未支持:
 HDMI
 Type-C
